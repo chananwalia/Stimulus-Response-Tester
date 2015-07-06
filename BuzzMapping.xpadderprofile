@@ -1,0 +1,27 @@
+;----------------------
+; Xpadder Profile File
+;----------------------
+
+Version=5.3
+
+[Profile Settings]
+
+[Set Settings]
+
+[Assignments]
+Set1Button2Slots=V
+Set1Button3Slots=C
+Set1Button4Slots=X
+Set1Button5Slots=Z
+Set1Button7Slots=L
+Set1Button8Slots=K
+Set1Button9Slots=J
+Set1Button10Slots=H
+Set1Button12Slots=R
+Set1Button13Slots=E
+Set1Button14Slots=W
+Set1Button15Slots=Q
+Set1Button17Slots=F
+Set1Button18Slots=D
+Set1Button19Slots=S
+Set1Button20Slots=A
